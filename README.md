@@ -1,5 +1,5 @@
-### Welcome
-
+### pooreumjung's github
+University :  Department of Computer Science & Engineering, Soongsil University
 
 
 
@@ -9,7 +9,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooreumjung&layout=compact)](https://github.com/pooreumjung/github-readme-stats)
+
 
 
 ### Other careers
