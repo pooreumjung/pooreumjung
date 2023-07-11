@@ -13,4 +13,4 @@ University :  Department of Computer Science & Engineering, Soongsil University
 
 
 ### Other careers
-SSU CSE 26TH President(21.12~22.12)
+SSU CSE 26Th President(21.12~22.12)
