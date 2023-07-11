@@ -7,3 +7,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooreumjung)](https://github.com/pooreumjung/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooreumjung&layout=compact)](https://github.com/pooreumjung/github-readme-stats)
