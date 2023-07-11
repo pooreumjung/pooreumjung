@@ -1,5 +1,5 @@
 ### pooreumjung's github
-University :  Department of Computer Science & Engineering, Soongsil University
+Department of Computer Science & Engineering, Soongsil University
 
 
 
