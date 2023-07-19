@@ -21,5 +21,10 @@ Department of Computer Science & Engineering, Soongsil University
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
+
+
+###
+2022.03~2022.08
+DevRent F/E developer
 ### Other careers
 SSU CSE 26Th President(21.12~22.12)
