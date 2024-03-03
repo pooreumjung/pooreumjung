@@ -1,12 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
 
 
-
 ### pooreumjung's github
 Department of Computer Science & Engineering, Soongsil University
-
-
-
+Back-end Developer가 되고 싶은 사람
 
 
 ### Algorithm
@@ -23,9 +20,9 @@ Department of Computer Science & Engineering, Soongsil University
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">  
 </div>
 
-
-###
+### careers
 2022.03~2022.08
 DevRent F/E developer
+
 ### Other careers
 SSU CSE 26Th President(21.12~22.12)
