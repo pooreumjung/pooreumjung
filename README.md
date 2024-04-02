@@ -2,9 +2,14 @@
 
 
 ### pooreumjung's github
-Department of Computer Science & Engineering, Soongsil University
+Department of Computer Science & Engineering, Soongsil University 21
 
 Studying Backend..
+
+![image](https://github.com/pooreumjung/pooreumjung/assets/78467972/2ed8492b-2027-49f3-a96f-d515ef1c7bf9)
+blog: https://pooreumjung.tistory.com/
+
+📰my life : https://blog.naver.com/pooreumjung02
 
 
 ### Algorithm
