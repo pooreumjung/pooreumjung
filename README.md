@@ -3,7 +3,8 @@
 
 ### pooreumjung's github
 Department of Computer Science & Engineering, Soongsil University
-Back-end Developer가 되고 싶은 사람
+
+Studying Backend..
 
 
 ### Algorithm
@@ -22,6 +23,7 @@ Back-end Developer가 되고 싶은 사람
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
 
 ### careers
 2022.03~2022.08
