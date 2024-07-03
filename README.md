@@ -22,6 +22,7 @@ my life : https://blog.naver.com/pooreumjung02
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
   <br>
 </div>
 
@@ -34,7 +35,7 @@ my life : https://blog.naver.com/pooreumjung02
 </div>
 
 
-### careers
+### Activity
 2022.03~2022.08
 DevRent F/E developer
 
