@@ -16,7 +16,7 @@ my life : https://blog.naver.com/pooreumjung02
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&hide=html,css&langs_count=6)](https://github.com/pooreumjung/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&hide=html,css&langs_count=4)](https://github.com/pooreumjung/github-readme-stats)
 
 
 ### 🛠️ Tech Stacks
