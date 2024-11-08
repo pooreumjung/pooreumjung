@@ -54,9 +54,4 @@ my life : https://blog.naver.com/pooreumjung02
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
-### Activity
-2022.03~2022.08
-DevRent F/E developer
 
-### Other careers
-SSU CSE 26Th President(21.12~22.12)
