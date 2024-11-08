@@ -14,6 +14,11 @@ my life : https://blog.naver.com/pooreumjung02
 ### Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pooreumjung02)](https://solved.ac/pooreumjung02)
 
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&hide=html,css&langs_count=6)](https://github.com/pooreumjung/github-readme-stats)
+
+
 ### 🛠️ Tech Stacks
 
 #### 🖥️ Languages
