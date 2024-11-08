@@ -6,10 +6,7 @@ Department of Computer Science & Engineering, Soongsil University 21
 
 Studying Backend..
 
-📰blog: https://pooreumjung.tistory.com/
-
-my life : https://blog.naver.com/pooreumjung02
-
+📰blog: https://pooreumjung.tistory.com
 
 ### Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pooreumjung02)](https://solved.ac/pooreumjung02)
