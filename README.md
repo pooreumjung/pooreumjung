@@ -1,26 +1,37 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 
 ## 👋 Hi, I'm Pooreum Jung!
-Computer Science @ Soongsil University 🎓  
-Studying Backend Development with Spring & NestJS  
-📰 [Blog](https://pooreumjung.tistory.com)
+🎓 Computer Science @ Soongsil University  
+🔧 Studying Backend Development with **Spring**, **Kotlin**, and **NestJS**
 
-### 📈 Stats
+📰 [Visit my blog](https://pooreumjung.tistory.com)  
+📊 [Solved.ac Profile](https://solved.ac/pooreumjung02)
+
+---
+
+## 📈 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooreumjung&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=pooreumjung&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=pooreumjung&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pooreumjung&theme=react-dark)
 
+---
 
-### Algorithm
+## 🧠 Algorithm
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pooreumjung02)](https://solved.ac/pooreumjung02)
 
+---
 
-### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&hide=html,css&langs_count=4)](https://github.com/pooreumjung/github-readme-stats)
+## 💬 Most Used Languages
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&hide=html,css&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🛠️ Tech Stacks
+---
 
-#### 🖥️ Languages
+## 🛠️ Tech Stacks
+
+### 🖥️ Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -30,23 +41,22 @@ Studying Backend Development with Spring & NestJS
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-
-#### 🗄️ Databases
+### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-#### 📚 Frameworks & Libraries
+### 📚 Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
-#### ☁️ Cloud Services
+### ☁️ Cloud Services
 <p>
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
@@ -54,18 +64,10 @@ Studying Backend Development with Spring & NestJS
   <img src="https://img.shields.io/badge/Amazon SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white"/>
 </p>
 
-#### 🔧 Tools
+### 🔧 Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
-
-### 📊 GitHub Stats
-![pooreumjung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooreumjung&show_icons=true&theme=tokyonight)
-![pooreumjung's GitHub Streak](https://streak-stats.demolab.com?user=pooreumjung&theme=tokyonight)
-![pooreumjung's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pooreumjung&theme=react-dark)
-
-
-
