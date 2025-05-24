@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Pooreum Jung
 
 🎓 B.S. in Computer Science @ Soongsil University  
-💼 Backend Developer @ SigmaTechnology (since Sep 2024)  
+💼 Backend Developer
 🌱 Focused on building robust APIs and scalable backend systems  
 🛠️ Passionate about Spring Boot, Kotlin, Docker, and clean architecture  
 
@@ -9,6 +9,12 @@
 📊 [Solved.ac](https://solved.ac/pooreumjung02) 
 ✉️ [Contact](pooreumjung02@naver.com) 
  
+---
+
+## 🗂️ Activity
+
+🏢 **Sigma Technology** — Backend Developer (2024.09 ~ )
+
 ---
 
 ## 📈 GitHub Stats
