@@ -1,18 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 
+## 👋 Hi, I'm Pooreum Jung!
+Computer Science @ Soongsil University 🎓  
+Studying Backend Development with Spring & NestJS  
+📰 [Blog](https://pooreumjung.tistory.com)
 
-### pooreumjung's github
-Department of Computer Science & Engineering, Soongsil University 21
+### 📈 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooreumjung&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=pooreumjung&theme=tokyonight)
 
-Studying Backend..
-
-📰blog: https://pooreumjung.tistory.com
 
 ### Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pooreumjung02)](https://solved.ac/pooreumjung02)
 
-### Most Used Languages
 
+### Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&hide=html,css&langs_count=4)](https://github.com/pooreumjung/github-readme-stats)
 
 
@@ -21,6 +23,7 @@ Studying Backend..
 #### 🖥️ Languages
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
@@ -60,7 +63,6 @@ Studying Backend..
 </p>
 
 ### 📊 GitHub Stats
-
 ![pooreumjung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooreumjung&show_icons=true&theme=tokyonight)
 ![pooreumjung's GitHub Streak](https://streak-stats.demolab.com?user=pooreumjung&theme=tokyonight)
 ![pooreumjung's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pooreumjung&theme=react-dark)
