@@ -3,11 +3,11 @@
 🎓 B.S. in Computer Science @ Soongsil University  
 💼 Backend Developer
 🌱 Focused on building robust APIs and scalable backend systems  
-🛠️ Passionate about Spring Boot, Kotlin, Docker, and clean architecture  
+🛠️ Passionate about Spring Boot(Kotlin&Spring), Docker, and clean architecture  
 
 📌 [Tech Blog](https://pooreumjung.tistory.com)  
-📊 [Solved.ac](https://solved.ac/pooreumjung02) 
-✉️ [Contact](pooreumjung02@naver.com) 
+📊 [Solved.ac Profile](https://solved.ac/pooreumjung02)  
+✉️ pooreumjung02@naver.com
  
 ---
 
