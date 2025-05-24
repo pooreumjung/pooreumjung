@@ -7,8 +7,8 @@
 
 📌 [Tech Blog](https://pooreumjung.tistory.com)  
 📊 [Solved.ac](https://solved.ac/pooreumjung02) 
-✉️ pooreumjung02@naver.com
-
+✉️ [Contact](pooreumjung02@naver.com) 
+ 
 ---
 
 ## 📈 GitHub Stats
