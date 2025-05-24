@@ -59,4 +59,11 @@ Studying Backend..
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
+### 📊 GitHub Stats
+
+![pooreumjung's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooreumjung&show_icons=true&theme=tokyonight)
+![pooreumjung's GitHub Streak](https://streak-stats.demolab.com?user=pooreumjung&theme=tokyonight)
+![pooreumjung's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pooreumjung&theme=react-dark)
+
+
 
