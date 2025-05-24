@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Pooreum%20Jung&fontSize=85)
-
 ## 👋 Hello, I'm Pooreum Jung
 
 🎓 B.S. in Computer Science @ Soongsil University  
@@ -8,7 +6,8 @@
 🛠️ Passionate about Spring Boot, Kotlin, Docker, and clean architecture  
 
 📌 [Tech Blog](https://pooreumjung.tistory.com)  
-📊 [Solved.ac](https://solved.ac/pooreumjung02) ｜ ✉️ pooreumjung@example.com
+📊 [Solved.ac](https://solved.ac/pooreumjung02) 
+✉️ pooreumjung02@naver.com
 
 ---
 
