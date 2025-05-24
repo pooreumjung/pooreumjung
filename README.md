@@ -1,11 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Pooreum%20Jung&fontSize=85)
 
-## 👋 Hi, I'm Pooreum Jung!
-🎓 Computer Science @ Soongsil University  
-🔧 Studying Backend Development with **Spring**, **Kotlin**, and **NestJS**
+## 👋 Hello, I'm Pooreum Jung
 
-📰 [Visit my blog](https://pooreumjung.tistory.com)  
-📊 [Solved.ac Profile](https://solved.ac/pooreumjung02)
+🎓 B.S. in Computer Science @ Soongsil University  
+💼 Backend Developer @ SigmaTechnology (since Sep 2024)  
+🌱 Focused on building robust APIs and scalable backend systems  
+🛠️ Passionate about Spring Boot, Kotlin, Docker, and clean architecture  
+
+📌 [Tech Blog](https://pooreumjung.tistory.com)  
+📊 [Solved.ac](https://solved.ac/pooreumjung02) ｜ ✉️ pooreumjung@example.com
 
 ---
 
@@ -28,7 +31,7 @@
 
 ---
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stack
 
 ### 🖥️ Languages
 <p>
