@@ -78,3 +78,15 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
+
+### 📊 GitHub 활동 통계
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooreumjung&show_icons=true&theme=tokyonight)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pooreumjung&theme=tokyonight)
+
+<!-- Top Langs -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&theme=tokyonight)
+
