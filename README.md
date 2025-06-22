@@ -13,7 +13,7 @@
 
 ## 🗂️ Activity
 
-🏢 **Sigma Technology** — Backend Developer (2024.09 ~ )
+🏢 **Sigma Technology** — Backend Developer (2024.09 ~ 2025.06)
 
 ---
 
