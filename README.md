@@ -1,16 +1,11 @@
-## 👋 Hello, I'm Pooreum Jung
+## 👋 Hi there, I'm Pooreum Jung
 
-🎓 Computer Science Student @ Soongsil University  
-💼 Aspiring Backend Developer 
-🌱 Focused on building robust APIs and scalable backend systems  
-🛠️ Passionate about Spring Boot (Kotlin & Java), Docker, and clean architecture  
+I'm a Computer Science student at Soongsil University, aspiring to become a backend developer.  
+I focus on building robust APIs and scalable systems using Spring Boot (Kotlin & Java), Docker, and clean architecture principles.
 
-🔗 [Tech Blog](https://pooreumjung.tistory.com)  
-💡 [Solved.ac Profile](https://solved.ac/pooreumjung02)  
-📬 pooreumjung02@naver.com
- 
+📌 For blog, solved.ac profile, and contact info — check the left panel!
+
 ---
-
 
 ## 🧠 Algorithm
 
