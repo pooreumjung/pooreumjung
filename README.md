@@ -51,4 +51,17 @@ I focus on building robust APIs and scalable systems using Spring Boot (Kotlin &
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooreumjung&show_icons=true&theme=tokyonight)
+
+---
+
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&hide=html,css&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
