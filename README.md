@@ -53,15 +53,6 @@ I focus on building robust APIs and scalable systems using Spring Boot (Kotlin &
 
 ---
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooreumjung&show_icons=true&theme=tokyonight)
-
----
-
-### Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&hide=html,css&langs_count=6&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
