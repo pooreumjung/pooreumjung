@@ -35,7 +35,7 @@ I focus on building robust APIs and scalable systems using Spring Boot (Kotlin &
 
 ## 💬 Most Used Languages
 
-[![Top Langs](https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&hide=html,css&langs_count=6&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&hide=html,css,scss&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS )](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
