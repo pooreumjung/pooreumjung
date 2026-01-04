@@ -31,7 +31,7 @@ I focus on building robust APIs and scalable systems using Spring Boot (Kotlin &
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pooreumjung&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pooreumjung&show_icons=true&theme=tokyonight)
 
 ---
 
