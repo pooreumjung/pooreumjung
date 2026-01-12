@@ -9,9 +9,6 @@ I focus on building robust APIs and scalable systems using Spring Boot (Kotlin &
 
 ## 🧑‍💻 Experience
 
-- **Backend Developer**, Sigma Technology  
-  2024.09 ~ 2025.06
-
 - **UMC 9기 — Spring Boot Senior**  
   2025.09 ~ 2026.02
 
@@ -45,13 +42,9 @@ I focus on building robust APIs and scalable systems using Spring Boot (Kotlin &
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>  
 </p>
 
 ### Databases
@@ -63,10 +56,7 @@ I focus on building robust APIs and scalable systems using Spring Boot (Kotlin &
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### Cloud Services
