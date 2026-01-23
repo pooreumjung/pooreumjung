@@ -8,6 +8,8 @@ I focus on building robust APIs and scalable systems using Spring Boot (Kotlin &
 ---
 
 ## 🧑‍💻 Experience
+- **Backend Developer**, Sigma Technology  
+  2024.09 ~ 2025.06
 
 - **UMC 9기 — Spring Boot Senior**  
   2025.09 ~ 2026.02
@@ -48,8 +50,7 @@ I focus on building robust APIs and scalable systems using Spring Boot (Kotlin &
 </p>
 
 ### Databases
-<p>  
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p>    
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
