@@ -19,6 +19,10 @@ I focus on building robust APIs and scalable systems using Spring Boot (Kotlin &
   
 - **Team EAT-SSU — Server**  
   2026.01 ~
+  
+- **큐시즘 33기 — Backend**  
+  2026.01 ~ 2026.07
+
 
 ---
 
