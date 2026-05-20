@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Pooreum Jung
 
 I'm a Computer Science student at Soongsil University, aspiring to become a backend developer.  
-I focus on building robust APIs and scalable systems using Spring Boot (Kotlin & Java), Docker, and clean architecture principles.
+I focus on building robust APIs and scalable systems using Spring Boot, Docker, and clean architecture principles.
 
 📌 For blog, solved.ac profile, and contact info — check the left panel!
 
@@ -9,10 +9,10 @@ I focus on building robust APIs and scalable systems using Spring Boot (Kotlin &
 
 ## 🧑‍💻 Experience
 - **Backend Developer**, Sigma Technology : `2024.09 ~ 2025.06`
-- **UMC 9기 — Spring Boot Senior** : `2025.09 ~ 2026.02`
-- **잇타 8기 — Backend** : `2025.09 ~ 2026.01`
-- **Team EAT-SSU — Server** : `2026.01 ~ ing`
-- **큐시즘 33기 — Backend** : `2026.01 ~ 2026.07`
+- **UMC 9기 - Spring Boot Senior** : `2025.09 ~ 2026.02`
+- **잇타 8기 - Backend** : `2025.09 ~ 2026.01`
+- **Team EAT-SSU - Server** : `2026.01 ~ ing`
+- **큐시즘 33기 - Backend** : `2026.01 ~ ing`
 
 <br>
 
