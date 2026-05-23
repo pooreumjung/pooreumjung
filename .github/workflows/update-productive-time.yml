@@ -15,7 +15,7 @@ jobs:
         with:
           github-token: ${{ secrets.GIST_TOKEN }}
           script: |
-            const gistId = "ebc456835e62acbc2c08f047080afa27";
+            const gistId = "1d8a370fcefe2f309e3b0e516e414913";
 
             const lines = [
               "1  🌞 Morning     38 commits   █░░░░░░░░░░░░░░░░░░░   5.2%",
