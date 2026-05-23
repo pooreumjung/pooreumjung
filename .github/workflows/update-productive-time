@@ -1,0 +1,34 @@
+name: Update productive time gist
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update Gist
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GIST_TOKEN }}
+          script: |
+            const gistId = "여기에_GIST_ID_넣기";
+
+            const content = `1  🌞 Morning     38 commits   █░░░░░░░░░░░░░░░░░░░   5.2%
+2  🌇 Daytime    174 commits   █████░░░░░░░░░░░░░░░  23.6%
+3  🌃 Evening    299 commits   ████████░░░░░░░░░░░░  40.6%
+4  🌙 Night      225 commits   ██████░░░░░░░░░░░░░░  30.6%`;
+
+            await github.rest.gists.update({
+              gist_id: gistId,
+              files: {
+                "I'm a night 🦉": {
+                  content
+                }
+              }
+            });
