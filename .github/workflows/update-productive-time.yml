@@ -17,7 +17,7 @@ jobs:
         with:
           github-token: ${{ secrets.GIST_TOKEN }}
           script: |
-            const gistId = "여기에_GIST_ID_넣기";
+            const gistId = "ebc456835e62acbc2c08f047080afa27";
 
             const content = `1  🌞 Morning     38 commits   █░░░░░░░░░░░░░░░░░░░   5.2%
 2  🌇 Daytime    174 commits   █████░░░░░░░░░░░░░░░  23.6%
