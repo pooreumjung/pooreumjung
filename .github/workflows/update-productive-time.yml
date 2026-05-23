@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-
       - name: Update Gist
         uses: actions/github-script@v7
         with:
@@ -19,16 +17,18 @@ jobs:
           script: |
             const gistId = "ebc456835e62acbc2c08f047080afa27";
 
-            const content = `1  🌞 Morning     38 commits   █░░░░░░░░░░░░░░░░░░░   5.2%
-2  🌇 Daytime    174 commits   █████░░░░░░░░░░░░░░░  23.6%
-3  🌃 Evening    299 commits   ████████░░░░░░░░░░░░  40.6%
-4  🌙 Night      225 commits   ██████░░░░░░░░░░░░░░  30.6%`;
+            const lines = [
+              "1  🌞 Morning     38 commits   █░░░░░░░░░░░░░░░░░░░   5.2%",
+              "2  🌇 Daytime    174 commits   █████░░░░░░░░░░░░░░░  23.6%",
+              "3  🌃 Evening    299 commits   ████████░░░░░░░░░░░░  40.6%",
+              "4  🌙 Night      225 commits   ██████░░░░░░░░░░░░░░  30.6%"
+            ];
 
             await github.rest.gists.update({
               gist_id: gistId,
               files: {
                 "I'm a night 🦉": {
-                  content
+                  content: lines.join("\n")
                 }
               }
             });
