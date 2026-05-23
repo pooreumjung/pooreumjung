@@ -24,15 +24,14 @@ jobs:
               "🌙 Night      225 commits   ██████░░░░░░░░░░░░░░  30.6%"
             ];
 
-            const content =
-              "I'm a night 🦉\n\n" +
-              lines.join("\n");
+            const content = lines.join("\n");
 
             await github.rest.gists.update({
               gist_id: gistId,
               files: {
                 "productive-time.txt": {
                   content: content
-                }
+                },
+                "I'm a night 🦉": null
               }
             });
