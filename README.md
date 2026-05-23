@@ -25,8 +25,7 @@ I focus on building robust APIs and scalable systems using Spring Boot, Docker, 
 
 <p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pooreumjung&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&hide=html,css,scss&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS" height="150"/>
-  <img src="https://raw.githubusercontent.com/pooreumjung/pooreumjung/main/profile-summary-card-output/tokyonight/4-productive-time.svg" height="180"/>
+  <img src="https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=pooreumjung&layout=compact&hide=html,css,scss&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS" height="150"/>  
 </p>
 
 <br>
