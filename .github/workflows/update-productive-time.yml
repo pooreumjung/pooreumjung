@@ -86,10 +86,10 @@ jobs:
 
             await github.rest.gists.update({
               gist_id: gistId,
+              description: "",
               files: {
                 "productive-time.txt": {
                   content
-                },
-                "I'm a night 🦉": null
+                }
               }
             });
