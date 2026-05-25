@@ -43,8 +43,6 @@ jobs:
 
                 for (const commit of commits) {
                   const date = new Date(commit.commit.author.date);
-
-                  // UTC → KST
                   const kstHour = (date.getUTCHours() + 9) % 24;
 
                   if (kstHour >= 6 && kstHour < 12) {
@@ -84,9 +82,19 @@ jobs:
 
             const content = lines.join("\n");
 
+            const labels = {
+              Morning: "I'm a morning 🌞",
+              Daytime: "I'm a daytime 🌇",
+              Evening: "I'm an evening 🌃",
+              Night: "I'm a night 🌙"
+            };
+
+            const top = Object.entries(buckets)
+              .sort((a, b) => b[1].count - a[1].count)[0][0];
+
             await github.rest.gists.update({
               gist_id: gistId,
-              description: "",
+              description: labels[top],
               files: {
                 "productive-time.txt": {
                   content
