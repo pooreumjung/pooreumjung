@@ -8,6 +8,7 @@ I focus on building robust APIs and scalable systems using Spring Boot, Docker, 
 <br>
 
 ## 🧑‍💻 Experience
+- **President, Computer Science Student Council, Soongsil University** : `2021.12 ~ 2022.11`
 - **Backend Developer**, Sigma Technology : `2024.09 ~ 2025.06`
 - **UMC 9기 - Spring Boot Senior** : `2025.09 ~ 2026.02`
 - **잇타 8기 - Backend** : `2025.09 ~ 2026.01`
