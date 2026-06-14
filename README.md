@@ -32,6 +32,7 @@ I focus on building robust APIs and scalable systems using Spring Boot, Docker, 
 
 ## 🏅 Awards
 - UMC 9th Demoday 최우수상 : `2026.02`
+- KUSITMS 33th 밋업 프로젝트 최우수상 : `2026.06`
 
 <br>
 
