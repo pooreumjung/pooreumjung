@@ -40,3 +40,4 @@ I focus on building robust APIs and scalable systems using Spring Boot, Docker, 
 - ADsP (데이터 분석 준전문가) : `2026.02`
 - SQLD (SQL 개발자) : `2026.03`
 - 정보처리기사 : `2026.06`
+- TOPCIT (Level 3) | 정보통신기획평가원 : `2026.06`
