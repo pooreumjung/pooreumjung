@@ -13,7 +13,7 @@ Experienced in developing and operating real-world services, with a strong focus
 
 ## Experience
 - **President, Computer Science Student Council, Soongsil University** : `2021.12 ~ 2022.11`
-- **Backend Developer**, Sigma Technology : `2024.09 ~ 2025.05`
+- **Backend Developer**, Sigma Technology : `2024.10 ~ 2025.05`
 - **잇타 8기 - Backend** : `2025.09 ~ 2026.01`
 - **UMC 9기 - Spring Boot Senior** : `2025.09 ~ 2026.02`
 - **Team EAT-SSU - Server** : `2026.01 ~ ing`
