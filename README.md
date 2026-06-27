@@ -1,47 +1,71 @@
 ## 👋 Hi there, I'm Pooreum Jung
-I’m a Backend Developer focused on building reliable and scalable systems.
 
-As a Computer Science student at Soongsil University, I enjoy turning ideas into production-ready services.
-<br>My interests lie in backend architecture, distributed systems, databases, and cloud infrastructure.
+I'm a Backend Developer focused on building reliable and scalable systems.
 
-Experienced in developing and operating real-world services, with a strong focus on maintainability, performance, and reliability. 
-<br>I’m continuously exploring better ways to design, build, and operate software systems.
+As a Computer Science student at Soongsil University, I enjoy turning ideas into production-ready services.<br>
+My interests lie in backend architecture, distributed systems, databases, and cloud infrastructure.
 
-📌 For blog, solved.ac profile, and contact info, check the left panel!
+Experienced in developing and operating real-world services,<br> I'm continuously exploring better ways to design, build, and operate software systems.
 
-<br>
-
-## Experience
-- **President, Computer Science Student Council, Soongsil University** : `2021.12 ~ 2022.11`
-- **Backend Developer**, Sigma Technology : `2024.10 ~ 2025.05`
-- **잇타 8기 - Backend** : `2025.09 ~ 2026.01`
-- **UMC 9기 - Spring Boot Senior** : `2025.09 ~ 2026.02`
-- **Team EAT-SSU - Server** : `2026.01 ~ ing`
-- **큐시즘 33기 - Backend** : `2026.02~ ing`
+📌 For my blog, solved.ac profile, and contact information, check the left panel!
 
 <br>
 
-## Algorithm
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pooreumjung02)](https://solved.ac/pooreumjung02)
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 <br>
 
-## GitHub Stats
+##  Experience
 
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pooreumjung&show_icons=true&theme=catppuccin_mocha&count_private=true" height="150"/>
-</p>
+### 🌱 Activities
 
-<br>
+- **Team EAT-SSU** - Server Developer (`2026.01 ~ Present`)
+- **KUSITMS 34th** - Backend Member & Head of Education Planning Team (`2026.07 ~ Present`)
+- **KUSITMS 33rd** - Backend Member (`2026.02 ~ 2026.06`)
+- **University Makeus Challenge (UMC) 9th** - Spring Boot Senior (`2025.09 ~ 2026.02`)
+- **IT’s TIME 8th** - Backend Member (`2025.09 ~ 2026.01`)
+- **Sigma Technology** - Backend Developer (`2024.10 ~ 2025.05`)
+- **SSU CSE Student Council** - President (`2021.12 ~ 2022.11`)
 
-## Awards
-- UMC 9th Demoday 최우수상 : `2026.02`
-- KUSITMS 33th 밋업 프로젝트 최우수상 : `2026.06`
+### 🏆 Awards
+- **KUSITMS 33rd Meetup Day** - Excellence Award (`2026.06`) · [SEMOSAN](https://github.com/SEMOSAN/SEMOSAN_BE)
+- **UMC 9th Demoday** - Excellence Award (`2026.02`) · [Areumdap](https://github.com/AreumDap/Areumdap-backend)
 
 <br>
 
 ## Certifications
-- ADsP (데이터 분석 준전문가) : `2026.02`
-- SQLD (SQL 개발자) : `2026.03`
-- 정보처리기사 : `2026.06`
-- TOPCIT (Level 3) | 정보통신기획평가원 : `2026.06`
+
+- 정보처리기사 (`2026.06`)
+- SQL Developer (SQLD) (`2026.03`)
+- Advanced Data Analytics Semi-Professional (ADsP) (`2026.02`)
+- TOPCIT Level 3 (`2026.06`)
+
+<br>
+
+## Stats
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://solved.ac/pooreumjung02">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pooreumjung02" height="160"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pooreumjung&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true" height="160"/>
+</td>
+</tr>
+</table>
