@@ -33,6 +33,7 @@ Experienced in developing and operating real-world services,<br> I'm continuousl
 
 - **Team EAT-SSU** - Server Developer (`2026.01 ~ Present`)
 - **KUSITMS 34th** - Backend Member & Head of Education Planning Team (`2026.07 ~ Present`)
+- **영 이노베이터 드림 프로젝트 2026** - (`2026.04 ~ 2026.07`) 
 - **KUSITMS 33rd** - Backend Member (`2026.02 ~ 2026.06`)
 - **University Makeus Challenge (UMC) 9th** - Spring Boot Senior (`2025.09 ~ 2026.02`)
 - **IT’s TIME 8th** - Backend Member (`2025.09 ~ 2026.01`)
