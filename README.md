@@ -20,6 +20,9 @@ Experienced in developing and operating real-world services,<br> I'm continuousl
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -32,11 +35,11 @@ Experienced in developing and operating real-world services,<br> I'm continuousl
 ### 🌱 Activities
 
 - **Team EAT-SSU** - Server Developer (`2026.01 ~ Present`)
-- **KUSITMS 34th** - Backend Member & Head of Education Planning Team (`2026.07 ~ Present`)
+- **KUSITMS 34th** - Backend Developer & Head of Education Planning Team (`2026.07 ~ Present`)
 - **영 이노베이터 드림 프로젝트 2026** - (`2026.04 ~ 2026.07`) 
-- **KUSITMS 33rd** - Backend Member (`2026.02 ~ 2026.06`)
+- **KUSITMS 33rd** - Backend Developer (`2026.02 ~ 2026.06`)
 - **University Makeus Challenge (UMC) 9th** - Spring Boot Senior (`2025.09 ~ 2026.02`)
-- **IT’s TIME 8th** - Backend Member (`2025.09 ~ 2026.01`)
+- **IT’s TIME 8th** - Backend Developer (`2025.09 ~ 2026.01`)
 - **Sigma Technology** - Backend Developer (`2024.10 ~ 2025.05`)
 - **SSU CSE Student Council** - President (`2021.12 ~ 2022.11`)
 
