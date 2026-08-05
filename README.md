@@ -62,14 +62,22 @@ Experienced in developing and operating real-world services,<br> I'm continuousl
 
 <table>
 <tr>
-<td align="center" width="50%">
+
+<td align="center" width="33%">
 <a href="https://solved.ac/pooreumjung02">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pooreumjung02" height="160"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pooreumjung02" width="100%"/>
 </a>
 </td>
 
-<td align="center" width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pooreumjung&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true" height="160"/>
+<td align="center" width="33%">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pooreumjung&utm_content=farm">
+<img src="https://render.gitanimals.org/farms/pooreumjung" width="100%"/>
+</a>
 </td>
+
+<td align="center" width="33%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pooreumjung&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true" width="100%"/>
+</td>
+
 </tr>
 </table>
