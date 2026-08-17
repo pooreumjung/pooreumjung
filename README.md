@@ -79,7 +79,7 @@ Experienced in developing and operating real-world services,<br> I'm continuousl
 </td>
 
 <td align="center" width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pooreumjung&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats-amber-tau-13.vercel.app/api?username=pooreumjung&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true" width="100%"/>
 </td>
 
 </tr>
