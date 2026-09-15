@@ -51,6 +51,7 @@ Experienced in developing and operating real-world services,<br> I'm continuousl
 
 ## Certifications
 
+- TOEIC Speaking IH  (`2026.09`)
 - 정보처리기사 (`2026.06`)
 - TOPCIT Level 3 (`2026.06`)
 - SQL Developer (SQLD) (`2026.03`)
