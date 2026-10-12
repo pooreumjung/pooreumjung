@@ -55,7 +55,8 @@ Experienced in developing and operating real-world services,<br> I'm continuousl
 - 정보처리기사 (`2026.06`)
 - TOPCIT Level 3 (`2026.06`)
 - SQL Developer (SQLD) (`2026.03`)
-- Advanced Data Analytics Semi-Professional (ADsP) (`2026.02`)
+- Advanced Data Analytics Semi-Professional (ADsP) (`2026.03`)
+- 한국사능력검정시험 1급 (`2018.08`)
 
 <br>
 
