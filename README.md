@@ -44,7 +44,9 @@ Experienced in developing and operating real-world services,<br> I'm continuousl
 - **SSU CSE Student Council** - President (`2021.12 ~ 2022.11`)
 
 ### 🏆 Awards
+- **KUSITMS 34th Verty 기업 연계 프로젝트** - Excellence Award (`2026.09`) 
 - **KUSITMS 33rd Meetup Day** - Excellence Award (`2026.06`) · [SEMOSAN](https://github.com/SEMOSAN/SEMOSAN_BE)
+- **KUSITMS 33rd LG 기업 연계 프로젝트** -  Best Practice Award(`2026.04`)
 - **UMC 9th Demoday** - Excellence Award (`2026.02`) · [Areumdap](https://github.com/AreumDap/Areumdap-backend)
 
 <br>
